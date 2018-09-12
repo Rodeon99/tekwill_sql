@@ -1,0 +1,2 @@
+-- Am instalat GitExt conform link-ului: http://gitextensions.github.io/
+-- GitBash descarcat si instalat de pe : https://git-scm.com/download/win
